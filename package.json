@@ -1,0 +1,15 @@
+{
+  "name": "peppa-pig",
+  "version": "0.0.1",
+  "description": "Peppa Pig for Julia and Esther",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Peppa",
+    "Pig"
+  ],
+  "author": "Kenny",
+  "license": "ISC"
+}
