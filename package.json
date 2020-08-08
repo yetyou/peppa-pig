@@ -1,5 +1,5 @@
 {
-  "name": "peppa-pig",
+  "name": "my-peppa-pig",
   "version": "0.0.1",
   "description": "Peppa Pig for Julia and Esther",
   "main": "index.js",
@@ -11,5 +11,6 @@
     "Pig"
   ],
   "author": "Kenny",
-  "license": "ISC"
+  "license": "MIT",
+  "homepage": "https://github.com/yetyou/peppa-pig"
 }
